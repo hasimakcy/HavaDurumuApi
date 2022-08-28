@@ -1,0 +1,1 @@
+script.js dosyasının içindeki key kısmına kendi key'ini yerleştirmelisin.
